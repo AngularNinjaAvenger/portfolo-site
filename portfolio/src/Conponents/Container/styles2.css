@@ -1,0 +1,33 @@
+.feqhuinoo-main{
+    position: relative;
+}
+.irwrapper-f0hewiond {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 120px;
+    position: absolute;
+    bottom: 1px;
+    left: 10px;
+}
+
+.irwrapper-f0hewiond a{
+    color:white;
+}
+.irwrapper-f0hewiond a:hover{
+    opacity: 0.5;
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px){ 
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+}
+
+@media only screen and (min-width: 992px){ 
+} 
+

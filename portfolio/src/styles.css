@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+@font-face {
+    font-family: "Consolas";
+    src: url("./fonts/Consolas.ttf");
+}
+@font-face {
+    font-family: "Consolaz";
+    src: url("./fonts/consolaz.ttf");
+}
+@font-face {
+    font-family: "Consolai";
+    src: url("./fonts/consolai.ttf");
+}
+@font-face {
+    font-family: "Consola";
+    src: url("./fonts/CONSOLA.TTF");
+}
+@font-face {
+    font-family: "Consolab";
+    src: url("./fonts/CONSOLAB.TTF");
+}
+@font-face {
+    font-family: "harlow";
+    src: url("./fonts/Harlow Solid Regular.ttf");
+}
+@font-face {
+    font-family: "Algerian";
+    src: url("./fonts/Algerian.ttf");
+}
+
+
+::-webkit-scrollbar {
+    width: 7.6px; 
+    height: 4px; 
+    background: white;
+    border-color:white;
+    border-radius:0px;
+    margin-right:6px;
+ }
+::-webkit-scrollbar-thumb {
+     background-color: black; 
+     border:0.2px solid white;
+     -webkit-border-radius: 1ex; 
+    }

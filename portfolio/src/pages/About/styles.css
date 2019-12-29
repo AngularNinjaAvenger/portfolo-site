@@ -1,0 +1,46 @@
+.side-content-wrapper-gwievron{
+    overflow:scroll;
+    vertical-align: middle;
+    padding:10px;
+}
+
+.side-content-wrapper-gwievron > div{
+    display:inline;
+    font-family: Consolas;
+}
+
+.more-content-tg48ehi{
+    animation-name:more-content;
+    animation-duration: 1s;
+    overflow-wrap: break-word;
+}
+.irwrapper-f0hewiond{
+    position: relative !important;
+    left:0;
+    right: 0;
+}
+
+
+
+@keyframes more-content{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 0px !important; 
+    height: 4px; 
+    background: black !important ;
+    border-color:black !important;
+    border-radius:0px;
+    margin-right:6px;
+ }
+::-webkit-scrollbar-thumb {
+     background-color: black; 
+     border:0px !important;
+     -webkit-border-radius: 0px !important; 
+     }

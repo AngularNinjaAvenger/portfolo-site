@@ -1,0 +1,114 @@
+.Container-839hfoen{
+    position: relative;
+}
+.Container-background-389hfuoen{
+    background:black;
+    float: right;
+    width:50%;
+    height:100vh
+}
+.Container-children-wrapper-038fhoewin{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    background:transparent;
+    width:100%;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow:scroll;
+}
+.Container-children-wrapped-child-qfe89hdo{
+    width:fit-content;
+    position: relative;
+}
+.Container-children-wrapped-child-qfe89hdo > header{
+    height:calc((100vh/10) * 0.7);
+    width:100%;
+
+
+}
+.Container-children-wrapped-child-qfe89hdo > main{
+    background:black;
+    height:calc((100vh/10) * 9.3);
+    width:100%;
+}
+.setMain-scroll{
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+.setMain-scroll-hidden{
+    overflow:hidden
+}
+
+.Container-children-wrapped-child-qfe89hdo{
+    background:white;
+    width: 100%;
+    height:100vh;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    border-radius: 30px;
+}
+
+.noe-js{
+    background:red
+}
+@media only screen and (min-width: 320px) and (max-width: 479px){ 
+    .Container-children-wrapped-child-qfe89hdo{
+        border: none;
+        border-radius: 0px;
+        padding:0px;
+    }
+   
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+    .Container-children-wrapped-child-qfe89hdo{
+        width: 90%;
+        height: 90vh;
+    }
+    .Container-children-wrapped-child-qfe89hdo > header{
+    
+    height:calc((100vh/10) * 0.7)
+
+}
+.Container-children-wrapped-child-qfe89hdo > main{
+    
+    height:calc((100vh/10) * 9.3)
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+    .Container-children-wrapped-child-qfe89hdo{
+        width: 90%;
+        height: 90vh;
+    }
+    .Container-children-wrapped-child-qfe89hdo > header{
+        
+        height:50px;
+    
+    }
+    .Container-children-wrapped-child-qfe89hdo > main{
+        
+        flex-grow: 1;
+    }
+}
+
+@media only screen and (min-width: 992px){ 
+    .Container-children-wrapped-child-qfe89hdo{
+        width: 90%;
+        height: 95vh;
+        max-width: 1000px;
+        max-height: 1200px;
+    }
+    .Container-children-wrapped-child-qfe89hdo > header{
+        height:50px;
+    
+    }
+} 

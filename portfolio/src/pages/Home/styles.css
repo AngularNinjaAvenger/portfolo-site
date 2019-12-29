@@ -1,0 +1,44 @@
+.side-content-wrapper-gwievron{
+    background: transparent;
+    padding: 10px;
+}
+.h2-rf03ieon{
+    font-family:"Consolas" ;
+    margin:0px
+}
+.name-fe89hnodi{
+    font-family: Algerian;
+    margin:0px
+}
+.about-me-fewij{
+    font-family: "Consolas";
+    margin:0px
+}
+.background-wrapper-f3w8hcsno {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+}
+.wrapper-unique-styles{
+    background:transparent;
+    color:black;
+    display:flex;
+    flex-direction:row;
+}
+
+.buttom-section-g4frevfuodn{
+    display:flex;
+    justify-content:center;
+}
+
+.buttom-section-g4frevfuodn > h3{
+    font-family: consolab;
+    font-weight:bolder;
+    text-decoration:underline;
+}
+
+.buttom-section-g4frevfuodn > h3:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}

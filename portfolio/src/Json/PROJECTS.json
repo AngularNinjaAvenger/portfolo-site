@@ -1,0 +1,76 @@
+{
+    "projects":{
+            "web":[
+                {
+                    "title":"SOPORORITIC",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },
+                {
+                    "title":"MERETETE",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },
+                {
+                    "title":"ZOBODODO",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },                {
+                    "title":"ANAMARAPARITIC",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },                {
+                    "title":"NICIKODU",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },                {
+                    "title":"LOMORODO",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },                {
+                    "title":"MEREPEPE",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                },                {
+                    "title":"NARCOS",
+                    "technology_used":["React-native","Angular","View js","java","C#"],
+                    "about":"this is a very nice project is is a very good and fun project that i created lorem ipsum lorem ipsum lorem ipsum",
+                    "features":["it is highly scalable","it has no bug","it is very user freiendly","a very intresting appliacaiton sha","very fun"],
+                    "website_link":"htttp:\\www.soporoitic.com",
+                    "git_hub_repo":"htttp:\\www.github.com/osayi-bishop/soporoitic",
+                    "image_link":"link-top-image"
+                }
+            ],
+            "mobile":[
+
+            ]
+    }
+}

@@ -1,0 +1,32 @@
+.zzigi {
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    font-family: Consolab;
+    background:white
+}
+.zzigi > h4{
+    margin:0px;
+    padding:0px;
+}
+
+.irwrapper-f0hewiond-black-icons-g8rwhvoin {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 120px;
+    padding:0px 3px;
+}
+.irwrapper-f0hewiond-black-icons-g8rwhvoin a{
+    color:black;
+}
+.irwrapper-f0hewiond-black-icons-g8rwhvoin a:hover{
+    opacity: 0.5;
+}
+
+.cover-1g9e-vwdhinp{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction:row  
+}

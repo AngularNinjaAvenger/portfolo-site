@@ -1,0 +1,298 @@
+.pr-ifo-wr-g248fh0ewvuin {
+    height: inherit;
+    background: white;
+    padding: 20px 0px;
+}
+
+.pr-ifo-wr-g248fh0ewvuin > div {
+    height: inherit;
+    background: white;
+    border-radius: 20px;
+    padding: 10px 0px;
+    /* overflow: scroll; */
+}
+
+.pr-ifo-wr-g248fh0ewvuin > div > header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.pr-ifo-wr-g248fh0ewvuin > div > header > h3 {
+    margin:0px;
+    font-family:Consolab;
+    font-weight: bolder;
+}
+
+.main-3f8e9vwhdun{
+    height:inherit
+}
+
+.pr-ifo-wr-g248fh0ewvuin > div > header > div{
+    align-self: flex-start;
+    position: absolute;
+    left: 10px;
+    margin:0px;
+}
+
+
+.cursor-pointer-g4802hwi{
+    width:20px;
+    cursor: pointer;
+}
+
+.cursor-pointer-g4802hwi:hover{
+    width:25px;
+}
+
+
+.info-t38egh9w{
+    display: flex;
+    flex-direction: row;
+    height: inherit;
+}
+.info-t38egh9w > div{
+    width: 50%;
+}
+.info-t38egh9w > div:nth-child(1){
+    display: none;
+    /* display:flex;
+    flex-direction: column;
+    justify-content: center; */
+}
+.info-t38egh9w > div:nth-child(1) > img {
+    width: 300px;
+    margin:0px auto;
+    border-radius: 15px;
+}
+.info-t38egh9w > div:nth-child(1){
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1)
+    {
+        border: 1px solid black;
+        font-family: consola;
+        font-weight: bold;
+        width: 160px;
+        font-size: 12px;
+        text-align: center;
+        align-self: flex-end;
+        margin-right: 10px;
+        cursor: pointer;
+        position: relative;
+        right: -8px;
+    }
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1) > span:hover{
+    color: white;
+}
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1):hover{
+    background:black;
+}
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1) > div{
+    position: absolute;
+    background: white;
+    box-shadow: -1px 0px 20px 5px #949292;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+    top: 19px;
+    border-radius: 20px;
+    right:4px;
+    animation-name: showTechnologies;
+    animation-duration: 1s;
+    box-shadow: -1px 0px 20px 5px #949292;
+}
+@keyframes showTechnologies{
+    from{
+        opacity: 0;
+        box-shadow: 0px 0px 0px 0px #ffffff;
+    }
+    to{
+        opacity: 1;
+        box-shadow: -1px 0px 20px 5px #949292;
+    }
+}
+
+
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1) > div > div {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1) > div > ul{
+    margin:0px;
+    padding:0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.info-t38egh9w > div:nth-child(1) > div:nth-child(1) > div > ul > li {
+    list-style-type: none;
+    display: inline;
+    background:white;
+    color:black;
+    padding: 5px;
+    border-radius: 22px;
+    font-size: 14px;
+    font-weight: 100;
+    margin: 2px;
+    box-shadow: -2px -4px 9px 1px #949292;
+    font-family: Consolab;
+    margin: 5px;
+}
+.about-project-g427heuw{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 17px;
+    font-family: Consolab;
+    padding: 1px;
+}
+
+.about-project-g427heuw > h4{
+    margin: 0px auto;
+    font-size: 22px;
+}
+.about-project-g427heuw > p {
+    font-family: arial;
+    margin: 2px 2px;
+    font-size: 13px;
+}
+
+.projet-details{
+    display: flex;
+    flex-direction: row;
+}
+.projet-details > div:nth-child(1){
+    width:70%;
+    flex:1;
+}
+.projet-details > div:nth-child(1) > h5{
+    font-size: 18px;
+    font-family: Consolab;
+    margin: 7px;
+}
+.projet-details > div:nth-child(1) > li{
+    list-style-type: none;
+    font-family: arial;
+    font-weight: 100;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.projet-details > div:nth-child(2){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:30%;
+    flex:1;
+    height: 136px
+}
+
+.projet-details > div:nth-child(2) > a{
+    color: black;
+    font-family: consolab;
+    margin-bottom:8px;
+    text-decoration: none;
+    font-size:14px;
+}
+.projet-details > div:nth-child(2) > a:hover{
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+
+.inner-container-t408y2gehvwid{
+    height:100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+    
+.section-t3geyf98huion{
+    margin: 20px auto;
+    width: 100%;
+    height: 80%;
+    max-height: 650px;
+    width: 97%;
+    border-radius: 5px;
+    padding: 2% 21px;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 20px 3px #949292;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow:scroll;
+    min-height:360px
+}
+
+
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 479px){ 
+    .info-t38egh9w > div{
+        display:none;
+    }
+    .section-t3geyf98huion{
+        height: fit-content;
+        border-radius: 1px;
+        padding: 2% 21px;
+        box-sizing: border-box;
+        overflow: scroll;
+        /* min-height: 360px; */
+    }
+    .info-t38egh9w > div:nth-child(1){
+        width: 100%;
+    }
+    .info-t38egh9w > div:nth-child(1) > div:nth-child(1){
+        margin:20px 0px;
+        margin-right: 16px;
+    }
+    .about-project-g427heuw > p{
+        padding:9px;
+        text-align: center;
+    }
+    .projet-details{
+        flex-direction: column;
+    }
+    .projet-details > div:nth-child(2){
+        order: -1;
+        flex-direction: row;
+        width: 100%;
+        justify-content: space-around;
+    }
+    .projet-details > div:nth-child(2) > a{
+        text-decoration: underline;
+    }
+    .projet-details > div:nth-child(1){ 
+            width: 100%; 
+            display: flex; 
+            flex-direction: column;
+     }
+     .projet-details > div:nth-child(1) > h5{
+         margin: 0px auto;
+     }
+     .projet-details > div:nth-child(1) > li{
+         text-align: center;
+     }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+}
+@media only screen and (min-width: 992px){ 
+ }

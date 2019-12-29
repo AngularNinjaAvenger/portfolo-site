@@ -1,0 +1,54 @@
+.card-item-cover {
+    color: black;
+    text-align: center;
+    padding: 8px;
+    margin: 0px 2px;
+    font-family: consolab;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 3px 1px 8px 0px #949292;
+    width:100%;
+}
+
+.card-item-cover:hover{
+    animation-name: elevate;
+    animation-duration: 1s;
+    box-shadow: 5px 5px 8px 0px #949292
+}
+
+
+.text-sub-text-f09ew8hi{
+    position: relative;
+}
+
+.text-sub-text-f09ew8hi > ul{
+    margin: 5px;
+    padding: 0px;
+    background: white;
+    position: absolute;
+    width: 100%;
+    left: -3%;
+    box-shadow: 6px 5px 8px 0px #949292;
+    animation-name:loadli;
+    animation-duration: 0.4s;
+}
+
+@keyframes loadli {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.text-sub-text-f09ew8hi > ul >li{
+    list-style-type: none;
+}
+
+
+.project-few89dho{
+    height:270px;
+    font-size:20px;
+    vertical-align: middle;
+}
